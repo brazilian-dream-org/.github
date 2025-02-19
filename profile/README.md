@@ -1,5 +1,7 @@
 # Plataforma Sonho Brasileiro ⚽🇧🇷
 
+<img src="./bg-sonho-colorido.png"/>
+
 <!--
 
 **Here are some ideas to get you started:**
