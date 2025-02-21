@@ -2,7 +2,7 @@
 
 <img width="500" src="./bg-sonho-colorido.png"/>
 
-Bem-vindo ao repositório oficial da **Plataforma Sonho Brasileiro**! Este espaço abriga os projetos que compõem nossa plataforma, promovendo um ambiente colaborativo e eficiente para o desenvolvimento.
+Bem-vindo ao repositório oficial da Plataforma Sonho Brasileiro! Este repositório abriga os projetos que compõem nossa plataforma, facilitando o desenvolvimento e colaboração.
 
 ---
 
