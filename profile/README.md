@@ -8,8 +8,8 @@ Bem-vindo ao repositório oficial da **Plataforma Sonho Brasileiro**! Este espa�
 
 ## 📌 Repositórios
 
-- **[Frontend](https://github.com/organizacao/frontend)** → Desenvolvido com Next.js, React e TypeScript.
-- **[Backend](https://github.com/organizacao/backend)** → Construído com Nest.js, TypeScript, Prisma e PostgreSQL.
+- **[Frontend](https://github.com/brazilian-dream-org/web-sonho-brasileiro)** → Desenvolvido com Next.js, React e TypeScript.
+- **[Backend](https://github.com/brazilian-dream-org/api-sonho-brasileiro)** → Desenvolvido com Nest.js, TypeScript, Prisma e PostgreSQL.
 
 ---
 
